@@ -1,16 +1,21 @@
-# nextlevelweek
-Curso Next Level Week da Rocketseat
+# 1ª Next Level Week - [Rocketseat](https://rocketseat.com.br/)
 
-Resumo do projeto
 
-O projeto é Ecoleta tem como objetivo,
-ajudar pessoas a encontrarem pontos de coleta de resíduos adequados
-para cada tipo de material.
+## Objetivo do projeto:
+- Desenvolver uma aplicação web;
+- Apresentar e aplicar os conceitos de HTML, CSS, JavaScript, Node e SQLite3.
 
-Através de um site certa Entidade pode cadastrar pontos de coleta 
-que contem informações como, nome, cidade, o tipo de
-material reciclável que essa entidade recolhe, entre outras informações.
+---
+## Descrição do projeto:
 
-Uma pessoa de poder pesquisar baseado na cidade, entidades que
+O projeto é Ecoleta visa ajudar o usuário a encontrar pontos de coleta de resíduos adequados para cada tipo de material. O usuário pode pesquisar certa cidade no campo de busca, entidades que
 façam a coleta desses resíduos dos quais ela queria fazer o 
 descarte de maneira adequada.
+
+Através de uma aplicação web certa Entidade pode cadastrar pontos de coleta que contem informações como, nome, cidade, o tipo de
+material reciclável que essa entidade recolhe, entre outras informações.
+
+---
+## Breve funcionamento da aplicação:
+
+<img src="ecoleta.gif">
